@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<AbsoluteLayout android:id="@+id/guiBuilder_Layout &#10;" android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="#000000" xmlns:android="http://schemas.android.com/apk/res/android">
+
+</AbsoluteLayout>
